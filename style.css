@@ -12,8 +12,8 @@ header {
   width: 100%;
   background-color: rgba(196, 137, 59, 0.603);
   font-family: sans-serif;
-  background-image: url(./portfolio-resources/images/developer.png),
-    url(./portfolio-resources/images/header_bg.png);
+  background-image: url(./images/developer.png),
+    url(./images/header_bg.png);
   background-position: top left, bottom right;
 
   background-repeat: no-repeat;
